@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="terminal_snake/terminal_snake.vcxproj" Id="c7fd0ca2-0833-49a5-8143-bca152bc9b31" />
+</Solution>
